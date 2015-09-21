@@ -1,0 +1,12 @@
+[submodule "notebook"]
+	path = notebook
+	url = https://github.com/jupyter/notebook.git
+[submodule "jupyter_console"]
+	path = jupyter_console
+	url = https://github.com/jupyter/jupyter_console.git
+[submodule "qtconsole"]
+	path = qtconsole
+	url = https://github.com/jupyter/qtconsole.git
+[submodule "jupyter_client"]
+	path = jupyter_client
+	url = https://github.com/jupyter/jupyter_client.git
