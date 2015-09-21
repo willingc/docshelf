@@ -61,3 +61,16 @@ Information about development is also available:
    :caption: About Jupyter
 
    data_science
+
+
+.. _myprojects:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: My Projects
+
+   notebook/docs/source/index
+   qtconsole/docs/source/index
+   jupyter_client/docs/index
+   jupyter_console/docs/index
+
