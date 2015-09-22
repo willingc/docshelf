@@ -67,7 +67,7 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 1
-   :caption: My Projects
+   :caption: Subproject Documentation
 
    notebook/docs/source/index
    qtconsole/docs/source/index
